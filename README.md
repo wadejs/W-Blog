@@ -1,3 +1,4 @@
+
 ## W-Blog
 
 W-Blog是一个基于vue和node的小小小博客
@@ -22,34 +23,34 @@ W-Blog是一个基于vue和node的小小小博客
 ### 图片演示
 #### 前台
 - 首页浏览
-![1.gif](http://pdc4osljo.bkt.clouddn.com/blog-md-1.gif)
+![1.gif](https://user-gold-cdn.xitu.io/2018/8/15/1653cab4e30730e0?w=1836&h=931&f=gif&s=1793276)
 - 文章详情浏览及目录导航
-![2.gif](http://pdc4osljo.bkt.clouddn.com/blog-md-2.gif)
+![2.gif](https://user-gold-cdn.xitu.io/2018/8/15/1653cab443526800?w=1836&h=931&f=gif&s=1255416)
 - 可根据分类和标签搜索文章
-![3.gif](http://pdc4osljo.bkt.clouddn.com/blog-md-3.gif)
+![3.gif](https://user-gold-cdn.xitu.io/2018/8/15/1653cab444149bbb?w=1836&h=931&f=gif&s=2470094)
 - 输入关键词搜索
-![4.gif](http://pdc4osljo.bkt.clouddn.com/blog-md-4.gif)
+![4.gif](https://user-gold-cdn.xitu.io/2018/8/15/1653cab4458bf3c8?w=1836&h=931&f=gif&s=568162)
 - 标签云及搜索
-![5.gif](http://pdc4osljo.bkt.clouddn.com/blog-md-5.gif)
+![5.gif](https://user-gold-cdn.xitu.io/2018/8/15/1653cab445cc9fa5?w=1836&h=931&f=gif&s=1807408)
 #### 后台
 - 后台登录
-![6.gif](http://pdc4osljo.bkt.clouddn.com/blog-md-6.gif)
+![6.gif](https://user-gold-cdn.xitu.io/2018/8/15/1653cab44755f4fc?w=1836&h=931&f=gif&s=106266)
 - 文章列表
-![7.gif](http://pdc4osljo.bkt.clouddn.com/blog-md-7.gif)
+![7.gif](https://user-gold-cdn.xitu.io/2018/8/15/1653cab44b1b3a17?w=1836&h=931&f=gif&s=1504343)
 - 文章搜索
-![8.gif](http://pdc4osljo.bkt.clouddn.com/blog-md-8.gif)
+![8.gif](https://user-gold-cdn.xitu.io/2018/8/15/1653cab476ca1ac9?w=1836&h=931&f=gif&s=516696)
 - 文章编辑
-![9.gif](http://pdc4osljo.bkt.clouddn.com/blog-md-9.gif)
+![9.gif](https://user-gold-cdn.xitu.io/2018/8/15/1653cab483ccca2f?w=1836&h=931&f=gif&s=849836)
 - 增加分类
-![10.gif](http://pdc4osljo.bkt.clouddn.com/blog-md-10.gif)
+![10.gif](https://user-gold-cdn.xitu.io/2018/8/15/1653cab498fd116e?w=1836&h=931&f=gif&s=594627)
 - 增加标签
-![11.gif](http://pdc4osljo.bkt.clouddn.com/blog-md-11.gif)
+![11.gif](https://user-gold-cdn.xitu.io/2018/8/15/1653cab49eb1062c?w=1836&h=931&f=gif&s=630573)
 - 标签修改（分类一样）
-![12.gif](http://pdc4osljo.bkt.clouddn.com/blog-md-12.gif)
+![12.gif](https://user-gold-cdn.xitu.io/2018/8/15/1653cab4a8d82c53?w=1836&h=931&f=gif&s=780030)
 - 文章修改
-![13.gif](http://pdc4osljo.bkt.clouddn.com/blog-md-13.gif)
+![13.gif](https://user-gold-cdn.xitu.io/2018/8/15/1653cab4b1353700?w=1836&h=931&f=gif&s=447485)
 - 文章删除，支持垃圾箱草稿箱
-![14.gif](http://pdc4osljo.bkt.clouddn.com/blog-md-14.gif)
+![14.gif](https://user-gold-cdn.xitu.io/2018/8/15/1653cab4d87200f5?w=1836&h=931&f=gif&s=1534909)
 
 ### 目录结构
 
